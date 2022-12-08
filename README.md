@@ -1,2 +1,2 @@
 # Drink-Store
-E-commerce website for drinks
+E-commerce website for drinks server side
